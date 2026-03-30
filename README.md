@@ -1,2 +1,3 @@
-# RC-Car-Project
-Doing an iterative process of making a remote controlled car.
+Version 1: struggle
+Version 2: grind
+Version 3: shine
