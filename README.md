@@ -1,3 +1,3 @@
--Version 1: struggle
--Version 2: grind
--Version 3: shine
+- Version 1 struggle 
+- Version 2 grind 
+- Version 3 shine
