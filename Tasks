@@ -1,0 +1,13 @@
+* This file will be updated a lot
+1. Print out ball and socket joint assembly (check tolerances and make potential tweaks to it)
+2. CAD the new front steering
+3. Perform static structural analysis
+4. Print new front steering
+5. Test
+6. Make new design for accounting for the rear suspension
+7. Repeat steps 2, 3, 4, 5 but for rear assembly
+8. Make custom shock absorbers
+9. Repeat steps 2, 3, 4, 5 but for shock absorbers
+10. Rack and pinion suspension setup
+11. Repeat steps 2, 3, 4, 5 but for suspension
+12. (OPTIONAL) Full assembly in solidworks of RC car
